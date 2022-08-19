@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "231572626848",
+    "project_id": "tukumonkey-5a19d",
+    "storage_bucket": "tukumonkey-5a19d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231572626848:android:d4488cb0056bf5a8ed18c5",
+        "android_client_info": {
+          "package_name": "com.gdelivery.tukumonkey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231572626848-boho1bvfeq9v380rp5h9kn0cj8po81sr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKWDnd-BXvXmhrH_fwRcE4PeM4JIARaPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231572626848-boho1bvfeq9v380rp5h9kn0cj8po81sr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231572626848:android:bed88eb4ef2411eded18c5",
+        "android_client_info": {
+          "package_name": "com.gdelivery.tukumonkeypartner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231572626848-boho1bvfeq9v380rp5h9kn0cj8po81sr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKWDnd-BXvXmhrH_fwRcE4PeM4JIARaPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231572626848-boho1bvfeq9v380rp5h9kn0cj8po81sr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231572626848:android:ede695200e25e8f7ed18c5",
+        "android_client_info": {
+          "package_name": "com.gdelivery.tukumonkeyvendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231572626848-boho1bvfeq9v380rp5h9kn0cj8po81sr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKWDnd-BXvXmhrH_fwRcE4PeM4JIARaPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231572626848-boho1bvfeq9v380rp5h9kn0cj8po81sr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
